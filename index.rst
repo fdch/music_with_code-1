@@ -38,7 +38,7 @@ Bibliography
 
 - Nick Collins' SuperCollider tutorial (https://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html)
 - Bruno Ruviaro's gentle introduction to SuperCollider (CCRMA) (https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf)
-- Extras (there are `many others <https://supercollider.sourceforge.net/learning/>_`):
+- Extras (there are `many others <https://supercollider.sourceforge.net/learning/>`_):
     - The SuperCollider Book (https://mitpress.mit.edu/9780262232692/the-supercollider-book/)
     - Designing Sound for SuperCollider (https://en.wikibooks.org/wiki/Designing_Sound_in_SuperCollider)
 For computer music stuff:
